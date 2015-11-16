@@ -119,6 +119,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		</Item>
 		<Item Name="Globals_Real.vi" Type="VI" URL="../Globals_Real.vi"/>
+		<Item Name="SubVI_Cluster_Array.vi" Type="VI" URL="../SubVI_Cluster_Array.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
