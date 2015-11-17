@@ -1,0 +1,6 @@
+[MARS]
+MARS = "172.16.0.1"
+
+[My Computer]
+My Computer = "172.19.198.144"
+
