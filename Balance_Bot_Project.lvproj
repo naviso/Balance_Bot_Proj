@@ -118,9 +118,9 @@ AddOutputFilter chunkFilter
 			<Item Name="Gryro Math Calc.vi" Type="VI" URL="../Gryro Math Calc.vi"/>
 			<Item Name="SubVI_Cluster_Array.vi" Type="VI" URL="../SubVI_Cluster_Array.vi"/>
 			<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+			<Item Name="SubVI_Complementary_Filter.vi" Type="VI" URL="../SubVI_Complementary_Filter.vi"/>
 		</Item>
 		<Item Name="Globals_Real.vi" Type="VI" URL="../Globals_Real.vi"/>
-		<Item Name="SunVI_Complementary_Filter.vi" Type="VI" URL="../SunVI_Complementary_Filter.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
